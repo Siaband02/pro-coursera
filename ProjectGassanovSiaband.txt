@@ -1,0 +1,25 @@
+# How to use the site
+Run the index.html file in any modern browser.
+You will see a page with an authorisation form, in which you need to enter your login and password.
+If you are not yet registered, the page also has a "Register" button, which will take you to a new user registration form.
+Once you have successfully logged in, you will be redirected to a welcome page.
+
+# How the site works
+The site works on the following principle:
+When a user submits a login or registration form, JavaScript collects data from the form fields and sends it to the server.
+The server checks that the data is correct and returns the response to the client.
+If the data is correct, the client is redirected to the welcome page. Otherwise, an error message is displayed to the client.
+
+# How to launch the site
+To launch the site, you need to:
+Copy the index.html, style.css and script.js files to your computer.
+Open index.html file with any modern browser.
+
+# How to make changes
+If you want to make changes to the website code, you will need to know HTML, CSS and JavaScript.
+Open index.html file in your code editor.
+Modify HTML, CSS or JavaScript.
+Save changes.
+Open index.html on any modern browser to test the results of your changes.
+Conclusion
+This authorization site can be used as a basis for more complex authorization and authentication applications. If you have any questions or suggestions for improving the site, please contact me.
